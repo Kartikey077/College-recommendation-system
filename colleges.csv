@@ -1,0 +1,126 @@
+State,Course,College,Fees,Rating,Hostel,Scholarship,Program Offered,College Type,Branch Available,Min Marks,Website
+Maharashtra,Engineering,IIT Bombay,200000,5,Yes,Yes,B.Tech,Government,,86,https://www.iitb.ac.in
+Maharashtra,Medical,AFMC Pune,50000,4.5,Yes,Yes,B.pharma,Government,,87,https://afmc.nic.in
+Maharashtra,Management,SPJIMR Mumbai,250000,4.8,Yes,Yes,BBA,Government,,84,https://www.spjimr.org
+Maharashtra,Arts,Fergusson College Pune,40000,4.2,Yes,No,B.A.,Government,,69,https://www.fergusson.edu
+Karnataka,Engineering,IIT Bangalore,250000,5,Yes,Yes,B.Tech,Government,,88,https://www.iisc.ac.in
+Karnataka,Medical,KMC Manipal,300000,4.8,Yes,Yes,B.pharma,Government,,79,https://manipal.edu/kmc-manipal.html
+Karnataka,Management,IIM Bangalore,400000,5,Yes,Yes,BBA,Government,,84,https://www.iimb.ac.in
+Karnataka,Arts,Christ University,150000,4.5,Yes,Yes,B.A.,Government,,86,https://christuniversity.in
+Delhi,Engineering,Delhi Technological University,150000,4.7,Yes,Yes,B.Tech,Private,,82,https://www.dtu.ac.in
+Delhi,Medical,AIIMS Delhi,50000,5,Yes,Yes,B.pharma,Government,,89,https://www.aiims.edu
+Delhi,Management,FMS Delhi,200000,4.9,No,Yes,BBA,Government,,84,https://www.fms.edu
+Delhi,Law,NLU Delhi,150000,4.8,Yes,Yes,LLB,Government,,86,https://nludelhi.ac.in
+West Bengal,Engineering,IIT Kharagpur,220000,5,Yes,Yes,B.Tech,Government,,62,https://www.iitkgp.ac.in
+West Bengal,Medical,RG Kar Medical College,80000,4.2,Yes,No,B.pharma,Government,,87,https://rggmch.org
+West Bengal,Management,IIM Calcutta,500000,5,Yes,Yes,BBA,Government,,65,https://www.iimcal.ac.in
+West Bengal,Arts,Jadavpur University,50000,4.6,No,Yes,B.A.,Government,,65,https://www.jaduniv.edu.in
+Tamil Nadu,Engineering,IIT Madras,250000,5,Yes,Yes,B.Tech,Government,,63,https://www.iitm.ac.in
+Tamil Nadu,Medical,CMC Vellore,300000,4.9,Yes,Yes,B.pharma,Government,,87,https://www.cmch-vellore.edu
+Tamil Nadu,Management,IIM Trichy,450000,4.7,Yes,Yes,BBA,Government,,85,https://www.iimtrichy.ac.in
+Tamil Nadu,Arts,Loyola College Chennai,60000,4.8,Yes,No,B.A.,Government,,84,https://www.loyolacollege.edu
+Rajasthan,Engineering,Malaviya National Institute of Technology Jaipur,150000,4.6,Yes,Yes,B.Tech,Government,,86,https://www.mnit.ac.in
+Rajasthan,Medical,SMS Medical College,75000,4.3,Yes,No,B.pharma,Government,,84,https://education.rajasthan.gov.in/smsmc
+Rajasthan,Management,IIM Udaipur,400000,4.6,Yes,Yes,BBA,Government,,55,https://www.iimu.ac.in
+Rajasthan,Law,NLU Jodhpur,200000,4.5,Yes,Yes,LLB,Government,,56,https://www.nlujodhpur.ac.in
+Uttar Pradesh,Engineering,IIT Kanpur,200000,5,Yes,Yes,B.Tech,Government,,87,https://www.iitk.ac.in
+Uttar Pradesh,Medical,KGMC Lucknow,90000,4.4,Yes,Yes,MBBS,Private,,85,https://www.kgmu.org
+Uttar Pradesh,Management,IIM Lucknow,450000,4.8,Yes,Yes,BBA,Government,,48,https://www.iiml.ac.in
+Uttar Pradesh,Arts,BHU Varanasi,40000,4.7,Yes,Yes,B.A.,Government,,88,https://www.bhu.ac.in
+Gujarat,Engineering,IIT Gandhinagar,210000,5,Yes,Yes,B.Tech,Government,,84,https://www.iitgn.ac.in
+Gujarat,Medical,BJ Medical College,60000,4.4,Yes,No,MBBS,Private,,86,https://gmcbjmc.edu.in
+Gujarat,Management,IIM Ahmedabad,500000,5,Yes,Yes,BBA,Government,,83,https://www.iima.ac.in
+Gujarat,Arts,Maharaja Sayajirao University,50000,4.2,No,No,B.A.,Private,,82,https://www.msubaroda.ac.in
+Punjab,Engineering,Punjab Engineering College Chandigarh,150000,4.3,Yes,Yes,B.Tech,Private,,81,https://www.pec.ac.in
+Punjab,Medical,Christian Medical College Ludhiana,200000,4.5,Yes,Yes,MBBS,Private,,82,https://www.cmcludhiana.in
+Punjab,Management,Indian School of Business Mohali,600000,4.9,Yes,Yes,BBA,Government,,87,https://www.isb.edu
+Punjab,Arts,Panjab University Chandigarh,50000,4.4,Yes,No,B.A.,Private,,87,https://www.puchd.ac.in
+Andhra Pradesh,Engineering,IIT Tirupati,200000,4.7,Yes,Yes,B.Tech,Government,,55,https://www.iittp.ac.in
+Andhra Pradesh,Medical,Andhra Medical College,80000,4.2,Yes,No,MBBS,Private,,87,https://www.andhramedicalcollege.edu.in
+Andhra Pradesh,Management,IIM Visakhapatnam,400000,4.6,Yes,Yes,BBA,Government,,79,https://www.iimv.ac.in
+Andhra Pradesh,Arts,Sri Venkateswara University,50000,4.3,No,No,B.A.,Private,,85,https://www.svuniversity.edu.in
+Kerala,Engineering,NIT Calicut,150000,4.6,Yes,Yes,B.Tech,Government,,84,https://www.nitc.ac.in
+Kerala,Medical,Amrita Institute of Medical Sciences,300000,4.8,Yes,Yes,MBBS,Private,,86,https://www.amritahospitals.org
+Kerala,Management,IIM Kozhikode,500000,5,Yes,Yes,BBA,Government,,85,https://www.iimk.ac.in
+Kerala,Arts,University of Kerala,40000,4.4,No,No,B.A.,Private,,85,https://www.keralauniversity.ac.in
+Bihar,Engineering,NIT Patna,140000,4.3,Yes,Yes,B.Tech,Government,,86,https://www.nitp.ac.in
+Bihar,Medical,Patna Medical College,70000,4.2,Yes,No,MBBS,Private,,84,https://www.patnamedicalcollege.edu.in
+Bihar,Management,Chandragupt Institute of Management Patna,250000,4.1,No,No,BBA,Private,,74,https://www.cimp.ac.in
+Bihar,Arts,Patna University,30000,4,No,No,B.A.,Private,,74,https://www.patnauniversity.ac.in
+Uttar Pradesh,Engineering,Raj Kumar Goel Institute of Technology,111500,4.5,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",75,https://www.rkgit.edu.in
+Uttar Pradesh,Engineering,Indian Institute of Technology Varanasi,90000,4.6,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iitbhu.ac.in
+Uttar Pradesh,Engineering,Aligarh Muslim University,60000,4.2,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.amu.ac.in
+Uttar Pradesh,Engineering,Babu Banarasi Das University,50000,4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.bbduniv.ac.in
+Uttar Pradesh,Engineering,Institute of Engineering and Technology,70000,4.3,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.ietlucknow.edu
+Uttar Pradesh,Engineering,Galgotias College of Engineering and Technology,75000,4.1,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.galgotiasuniversity.edu.in
+Uttar Pradesh,Engineering,Noida Institute of Engineering and Technology,65000,4.2,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.noidaint.org
+Uttar Pradesh,Engineering,Shiv Nadar University,120000,4.7,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.snu.edu.in
+Uttar Pradesh,Engineering,Lucknow Institute of Technology,40000,4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.litlucknow.ac.in
+Uttar Pradesh,Engineering,Madan Mohan Malaviya University of Technology,80000,4.3,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.mmmut.ac.in
+Uttar Pradesh,Engineering,Harvard Engineering College,70000,4.2,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.harvardengineeringcollege.com
+Uttar Pradesh,Engineering,Meerut Institute of Engineering and Technology,55000,4.1,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.miet.ac.in
+Uttar Pradesh,Engineering,Dr. Ram Manohar Lohia Avadh University,60000,4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.rmlau.ac.in
+Uttar Pradesh,Engineering,K.R. Mangalam University,85000,4.3,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.krmangalam.edu.in
+Uttar Pradesh,Engineering,University of Lucknow,75000,4.2,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.lkouniv.ac.in
+Delhi,Engineering,Indian Institute of Technology Delhi,200000,4.9,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iitd.ac.in
+Delhi,Engineering,Delhi Technological University,180000,4.8,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.dtu.ac.in
+Delhi,Engineering,Jamia Millia Islamia,120000,4.6,Yes,No,BCA,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.jmi.ac.in
+Delhi,Engineering,Netaji Subhas University of Technology,140000,4.5,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.nsit.ac.in
+Delhi,Engineering,Amity University,100000,4.4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.amity.edu
+Delhi,Engineering,Indraprastha Institute of Information Technology,160000,4.7,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iiitd.ac.in
+Delhi,Engineering,University of Delhi,110000,4.3,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.du.ac.in
+Delhi,Engineering,Maulana Azad Institute of Technology,80000,4.2,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.maulanaazad.edu
+Delhi,Engineering,Shivaji College,70000,4,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.shivajicollege.ac.in
+Delhi,Engineering,Dr. B.R. Ambedkar Institute of Technology,95000,4.1,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.brait.ac.in
+Delhi,Engineering,Sharda University,150000,4.4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.sharda.ac.in
+Delhi,Engineering,International Institute of Information Technology,130000,4.6,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iiit.ac.in
+Delhi,Engineering,International Management Institute,120000,4.2,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.imi.edu
+Delhi,Engineering,Bharati Vidyapeeth College of Engineering,90000,4,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.bvp.edu.in
+Delhi,Engineering,Faculty of Engineering and Technology,85000,4.3,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.fet.iitd.ac.in
+Delhi,Engineering,Guru Gobind Singh Indraprastha University,80000,4.2,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.ipu.ac.in
+Delhi,Engineering,Rajasthan Technical University,95000,4.1,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.rtu.ac.in
+Delhi,Engineering,University School of Engineering & Technology,85000,4,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.uet.edu
+Delhi,Engineering,South Delhi Polytechnic for Women,70000,4.1,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.southdelhipolytechnic.in
+Delhi,Engineering,Indira Gandhi Institute of Technology,100000,4.3,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.igidr.ac.in
+Delhi,Engineering,Shivaji College of Engineering and Technology,90000,4.2,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.shivajiuniversity.in
+Delhi,Engineering,Global Institute of Technology,100000,4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.giit.ac.in
+Delhi,Engineering,University of Delhi Engineering Department,120000,4.4,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.du.ac.in
+Uttar Pradesh,Engineering,Indian Institute of Technology Kanpur,100000,4.5,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.krishnaengineering.edu.in
+Uttar Pradesh,Engineering,Indian Institute of Technology Varanasi,90000,4.6,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iitbhu.ac.in
+Uttar Pradesh,Engineering,Aligarh Muslim University,60000,4.2,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.amu.ac.in
+Uttar Pradesh,Engineering,Babu Banarasi Das University,50000,4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://bbdu.ac.in
+Uttar Pradesh,Engineering,Institute of Engineering and Technology,70000,4.3,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://ietlucknow.ac.in
+Uttar Pradesh,Engineering,Galgotias College of Engineering and Technology,75000,4.1,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://galgotiacollege.edu
+Uttar Pradesh,Engineering,Noida Institute of Engineering and Technology,65000,4.2,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://niet.co.in
+Uttar Pradesh,Engineering,Shiv Nadar University,120000,4.7,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.snu.edu.in
+Uttar Pradesh,Engineering,Lucknow Institute of Technology,40000,4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://lit.edu.in
+Uttar Pradesh,Engineering,Madan Mohan Malaviya University of Technology,80000,4.3,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.mmmut.ac.in
+Uttar Pradesh,Engineering,Harvard Engineering College,70000,4.2,No,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://harvard.ac.in
+Uttar Pradesh,Engineering,Meerut Institute of Engineering and Technology,55000,4.1,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",55,https://www.miet.ac.in
+Uttar Pradesh,Engineering,Dr. Ram Manohar Lohia Avadh University,60000,4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",65,https://www.rmlau.ac.in
+Uttar Pradesh,Engineering,K.R. Mangalam University,85000,4.3,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",70,https://www.krmangalam.edu.in
+Uttar Pradesh,Engineering,University of Lucknow,75000,4.2,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",74,https://www.lkouniv.ac.in
+Delhi,Engineering,Indian Institute of Technology Delhi,200000,4.9,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",78,https://www.iitd.ac.in
+Delhi,Engineering,Delhi Technological University,180000,4.8,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",72,https://www.dtu.ac.in
+Delhi,Engineering,Jamia Millia Islamia,120000,4.6,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",71,https://www.jmi.ac.in
+Delhi,Engineering,Netaji Subhas University of Technology,140000,4.5,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",78,https://www.nsit.ac.in
+Delhi,Engineering,Amity University,100000,4.4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",75,https://www.amity.edu
+Delhi,Engineering,Indraprastha Institute of Information Technology,160000,4.7,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",76,https://www.iiitd.ac.in
+Delhi,Engineering,University of Delhi,110000,4.3,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",73,https://www.du.ac.in
+Delhi,Engineering,Maulana Azad Institute of Technology,80000,4.2,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",72,https://www.manit.ac.in
+Delhi,Engineering,Shivaji College,70000,4,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",71,https://shivajicollege.ac.in
+Delhi,Engineering,Dr. B.R. Ambedkar Institute of Technology,95000,4.1,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",78,https://www.dbrait.andaman.gov.in
+Delhi,Engineering,Sharda University,150000,4.4,Yes,No,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",75,https://www.sharda.ac.in
+Delhi,Engineering,International Institute of Information Technology,130000,4.6,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",85,https://www.iiit.ac.in
+Delhi,Engineering,International Management Institute,120000,4.2,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",74,https://www.imi.edu
+Delhi,Engineering,Bharati Vidyapeeth College of Engineering,90000,4,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",71,https://www.bvp.bharatividyapeeth.edu
+Delhi,Engineering,Faculty of Engineering and Technology,85000,4.3,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",75,https://fet.edu.in
+Delhi,Engineering,Guru Gobind Singh Indraprastha University,80000,4.2,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",72,https://www.ipu.ac.in
+Delhi,Engineering,Rajasthan Technical University,95000,4.1,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",71,https://www.rtu.ac.in
+Delhi,Engineering,University School of Engineering & Technology,85000,4,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",78,https://www.ipu.ac.in/uset
+Delhi,Engineering,South Delhi Polytechnic for Women,70000,4.1,No,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",87,https://southdelhipolytechnic.com
+Delhi,Engineering,Indira Gandhi Institute of Technology,100000,4.3,Yes,No,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",45,https://igit.ac.in
+Delhi,Engineering,Shivaji College of Engineering and Technology,90000,4.2,Yes,Yes,B.Tech,Government,"CSE,ME,ECE,CS,Civil,Eletrical",87,https://shivajicollegeofengg.in
+Delhi,Engineering,Global Institute of Technology,100000,4,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",55,https://gitjaipur.com
+Delhi,Engineering,Delhi Technological University,120000,4.7,Yes,Yes,M.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",65,https://www.dtu.ac.in
+Uttar Pradesh,Engineering,Krishna Institute Of Engineering And Technology,120000,4.9,Yes,Yes,B.Tech,Private,"CSE,ME,ECE,CS,Civil,Eletrical",87,https://www.kiet.edu
