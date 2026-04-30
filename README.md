@@ -2,8 +2,8 @@
 The College Recommendation System is designed to assist students in finding the most suitable colleges based on various criteria such as state, course, program, academic performance, fees, hostel availability, and scholarships. 
 The system offers an intuitive interface where users can input their preferences and receive a tailored list of colleges, helping them make informed decisions about their higher education.
 ```
-##	Programming Language: Python
-##	Libraries:
+Programming Language: Python
+Libraries:
 
 Tkinter: For the graphical user interface (GUI).
 Pandas: For data manipulation and filtering.
